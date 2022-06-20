@@ -50,7 +50,8 @@ public class NumberGuessingGame {
         int i = sc.nextInt();
         if (i == 1) {
             main(args);
-        } else {
+        } 
+        else {
             System.out.println("Thank you");
         }
     }
